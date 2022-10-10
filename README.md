@@ -1,11 +1,13 @@
-#OTTT
-
 <h1 align="center">Welcome to OTTT 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > Multiband Upwards Downwards Compressor
+
+4 frequency bands, each with upwards and downwards compression
+Optional tape saturation and exciter knobs
+Developed using RackAFX 7.0
 
 ### ✨ [Demo](https://colinraab.com/projects)
 
