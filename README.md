@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to OTTT 👋</h1>
+<h1 align="center">OTTT - Over The Top 2</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
