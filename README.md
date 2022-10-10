@@ -5,11 +5,11 @@
 
 > Multiband Upwards Downwards Compressor
 
-4 frequency bands, each with upwards and downwards compression
-Optional tape saturation and exciter knobs
-Developed using RackAFX 7.0
+4 frequency bands, each with upwards and downwards compression,
+optional tape saturation and exciter knobs,
+developed using RackAFX 7.0.
 
-### ✨ [Demo](https://colinraab.com/projects)
+### ✨ [Demo on website](https://colinraab.com/projects)
 
 ## Author
 
